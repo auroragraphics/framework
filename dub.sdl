@@ -1,0 +1,6 @@
+name "aurora-framework"
+description "UX Widget Framework for Aurora"
+license "BSL-1.0"
+author "Adam Wilson"
+copyright "Adam Wilson (c) 2018"
+targetType "library"
